@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     env:{
-        MONGODB_URI:"mongodb+srv://aknath_08:FZR6wipROr6HSh3b@cluster0.hfkca9p.mongodb.net/task?retryWrites=true&w=majority"
+        MONGODB_URI:"mongodb+srv://shreedpanchal1999:shree1999@cluster0.r7xwdua.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     }
 }
 
